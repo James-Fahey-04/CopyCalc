@@ -30,8 +30,8 @@ Unlike other clipboard calculators (such as *Aiac* or *Clipboard Calculator*), *
 
 ## 📦 Installation
 1. [Download the latest release here](https://github.com/James-Fahey-04/CopyCalc/releases/latest).
-2. Run `CopyCalc-Setup.exe` and follow the prompts.
-3. Launch CopyCalc and start calculating instantly.
+2. Run `CopyCalc-Setup.exe`.
+3. If Windows SmartScreen appears, click **“More info” → “Run anyway”**.
 
 ---
 
@@ -45,3 +45,4 @@ Unlike other clipboard calculators (such as *Aiac* or *Clipboard Calculator*), *
 
 ## 📄 License
 MIT License — feel free to fork, modify, and share.
+
