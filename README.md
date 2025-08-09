@@ -1,2 +1,2 @@
-# CopyCalc
-A Windows clipboard calculator — copy numbers to instantly add, subtract, multiply, or divide.
+How CopyCalc is Different
+Unlike other clipboard calculators (such as Aiac or Clipboard Calculator), CopyCalc requires no extra hotkeys or manual input fields. Simply set an operator once, then keep copying numbers from anywhere — the calculation happens instantly in the background. It also supports repeated same-value copies (e.g., 7 + 7) without missing an entry, something many similar tools can’t handle.
