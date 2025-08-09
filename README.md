@@ -2,8 +2,6 @@
 
 A lightweight Windows clipboard calculator — copy numbers to instantly add, subtract, multiply, or divide without ever typing them in.
 
-![CopyCalc Screenshot](screenshot1.png)
-
 ---
 
 ## 🚀 Overview
