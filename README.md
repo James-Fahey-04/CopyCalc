@@ -37,14 +37,6 @@ Unlike other clipboard calculators (such as *Aiac* or *Clipboard Calculator*), *
 
 ---
 
-## 📸 Screenshots
-*(Replace these with your actual screenshots)*
-
-![Main Window](Copycalclogow.png)
-![History Example](screenshot2.png)
-
----
-
 ## 🛠 Technical Details
 - **Language:** Python 3.10
 - **Libraries:** `tkinter`, `ttkbootstrap`, `pyperclip`, `pywin32`
