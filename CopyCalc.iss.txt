@@ -1,0 +1,21 @@
+[Setup]
+AppName=CopyCalc
+AppVersion=1.0.0
+DefaultDirName={autopf}\CopyCalc
+DefaultGroupName=CopyCalc
+OutputDir=dist_installer
+OutputBaseFilename=CopyCalc-Setup
+Compression=lzma
+SolidCompression=yes
+ArchitecturesAllowed=x64
+ArchitecturesInstallIn64BitMode=x64
+
+[Files]
+Source: "dist\CopyCalc.exe"; DestDir: "{app}"; Flags: ignoreversion
+
+[Icons]
+Name: "{autoprograms}\CopyCalc"; Filename: "{app}\CopyCalc.exe"
+Name: "{desktop}\CopyCalc"; Filename: "{app}\CopyCalc.exe"
+
+[Run]
+Filename: "{app}\CopyCalc.exe"; Description: "Launch CopyCalc"; Flags: nowait postinstall skipifsilent
